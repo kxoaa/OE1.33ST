@@ -1,0 +1,15 @@
+.body
+{
+    background-color: black;
+}
+
+.b
+{
+    background-color: white; 
+    height: 900px;
+    width: 900px;
+    font-size: large; 
+    border-radius: 100px;
+    display: block;
+    margin: auto;
+}
